@@ -9,7 +9,7 @@
 
 # a porta dele voce pode mudar no   await app.listen(3002); do main, porem deve mudar no front end também na pasta das variaveis de ambientes que deixei no readme para integrar.
 
-# apos subir o back e o front voce pode fazer as migrations no postgres configurando ele nas 
+# apos subir o back e o front voce pode fazer as migrations no postgres configurando ele nas variaveis de ambiente
 
 # apos  migrations banco e front instanciados, podemos instanciar o keycloac apenas descomentando a linha providers e o key cloac no app.module.ts que já deixei pronto para funcionar, porém deve ser instanciado nas envs as configurações semelhantes as instanciadas no keycloac para funcionar, também já deixei em https para facilitar o cors. 
 
