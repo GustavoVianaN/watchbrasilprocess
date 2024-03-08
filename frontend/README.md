@@ -14,4 +14,4 @@
 
 # deve incluir na pasta   src\enviroment\index.js  incluir no REACT_APP_API_URL: .. o url da api    
 
-# apos o back e front instanciado, voce deve ativar o keyclaoc, para ativar o keycloac voce descomenta as linahs dele nas variaveis de ambientes, sete os valores exatamente como estiver no back end, e no keycloac e a autenticação já estara funcionancio. 
+# apos o back e front instanciado, voce deve ativar o keyclaoc, para ativar o keycloac voce descomenta as linhas dele nas variaveis de ambientes, sete os valores exatamente como estiver no back end, e no keycloac e a autenticação já estara funcionando. 
