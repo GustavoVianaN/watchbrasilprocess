@@ -13,6 +13,7 @@
 
 # apos  migrations banco e front instanciados, podemos instanciar o keycloac apenas descomentando a linha providers e o key cloac no app.module.ts que já deixei pronto para funcionar, porém deve ser instanciado nas envs as configurações semelhantes as instanciadas no keycloac para funcionar, também já deixei em https para facilitar o cors. 
 
+# caso queira usar no https, e deve pois o front já está, só decomentar a linha do modulo que já gerei certificado
 <!-- TYPEORM_CONNECTION='postgres'   /// banco de dados, pode ser mysql
 TYPEORM_HOST='localhost' // localhost ou ip, pr
 TYPEORM_PORT=5432 // porta do banco de dados 
