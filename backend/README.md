@@ -11,7 +11,7 @@
 
 # apos subir o back e o front voce pode fazer as migrations no postgres configurando ele nas 
 
-# apos  migrations banco e front instanciados, podemos instanciar o keycloac apenas descomentando a linha providers e o key cloac no app.module.ts que já deixei pronto para funcionar, porém deve ser instanciado nas envs as configurações semelhantes as instanciadas no keyclaoc para funcionar, também já deixei em https para facilitar o cors. 
+# apos  migrations banco e front instanciados, podemos instanciar o keycloac apenas descomentando a linha providers e o key cloac no app.module.ts que já deixei pronto para funcionar, porém deve ser instanciado nas envs as configurações semelhantes as instanciadas no keycloac para funcionar, também já deixei em https para facilitar o cors. 
 
 <!-- TYPEORM_CONNECTION='postgres'   /// banco de dados, pode ser mysql
 TYPEORM_HOST='localhost' // localhost ou ip, pr
